@@ -113,13 +113,15 @@ const cusnaruto = {
 
 ## 🎌 Anime Vibes 🎌
 
-<img src="https://imgur.com/rilHVxA.png" width="40%" alt="Anime Gif"/>
-
 *"Believe it! The path of a developer is never-ending, just like my favorite anime!"*
 
 ### 🍥 Favorite Series 🍥
 
 `Naruto` • `One Piece` • `Attack on Titan` • `Demon Slayer` • `My Hero Academia` • `Jujutsu Kaisen`
+
+### 📺 Currently Watching 📺
+
+Always on the lookout for the next great anime adventure!
 
 </div>
 
@@ -130,7 +132,6 @@ const cusnaruto = {
 ## 📬 Connect With This Shinobi 📬
 
 [![GitHub](https://img.shields.io/badge/-@cusnaruto-000000?style=for-the-badge&logo=github&logoColor=ffae42)](https://github.com/cusnaruto)
-[![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=ffae42)](mailto:your-email@example.com)
 
 ### 💬 *"The code will guide us!"* 💬
 
