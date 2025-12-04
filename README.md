@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&section=header&text=cusnaruto&fontSize=60&fontColor=5e42ff&animation=fadeIn&fontAlignY=38" alt="header"/>
+![ma,e](https://github.com/user-attachments/assets/bdb703f7-3f06-4751-9661-1d99cc4a7e19)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cusnaruto&color=ffae42&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -39,18 +40,6 @@ const cusnaruto = {
 <div align="center">
 
 ## 📊 Other stuffs 📊
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cusnaruto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffae42&icon_color=ffae42&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusnaruto&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffae42&text_color=ffffff" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=cusnaruto&theme=dark&hide_border=true&background=0d1117&ring=ffae42&fire=ffae42&currStreakLabel=ffae42&sideLabels=ffae42&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cusnaruto&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffae42&line=ffae42&point=ffffff" alt="Contribution Graph"/>
-
-</div>
-
----
 
 <div align="center">
 
