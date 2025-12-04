@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🍜 Welcome to Cusnaruto's Dojo 🍜
+# 🍜 Welcome! 🍜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&height=200&section=header&text=Cusnaruto&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Coding%20Ninja%20%7C%20Anime%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&section=header&text=cusnaruto&fontSize=60&fontColor=5e42ff&animation=fadeIn&fontAlignY=38" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cusnaruto&color=ffae42&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -14,25 +14,23 @@
 
 <div align="center">
 
-## ⚡ About This Ninja ⚡
+## ⚡ About me ⚡
 
-*"Dattebayo! The code never lies, only the ninja writes the truth!"*
+*"Guy who likes penguins"*
 
 </div>
 
 ```javascript
 const cusnaruto = {
-    pronouns: "Code Ninja" | "Developer",
     code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "anime", "tech", "gaming"],
+    askMeAbout: ["weeb stuffs", "tech", "osu"],
     technologies: {
         frontEnd: ["React", "Vue", "HTML", "CSS"],
         backEnd: ["Node", "Express", "Django"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    currentFocus: "Building awesome projects and watching anime 🎌",
-    funFact: "I debug code faster than Minato's Flying Thunder God technique!"
+    currentFocus: "grinding"
 };
 ```
 
@@ -40,36 +38,11 @@ const cusnaruto = {
 
 <div align="center">
 
-## 🎯 Current Quest 🎯
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-🔥 **Training Arc**
-- Mastering new jutsu (technologies)
-- Contributing to open source
-- Building epic projects
-
-</td>
-<td align="center" width="50%">
-
-✨ **Power Level**
-- 💪 Always learning and growing
-- 🎮 Gaming & Coding enthusiast
-- 🍜 Fueled by ramen and determination
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
-## 📊 Battle Stats 📊
+## 📊 Other stuffs 📊
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cusnaruto&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffae42&icon_color=ffae42&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
@@ -85,7 +58,7 @@ const cusnaruto = {
 
 <div align="center">
 
-## 🛠️ Ninja Tools & Techniques 🛠️
+## 🛠️ Tech 🛠️
 
 ### Languages & Frameworks
 
@@ -111,29 +84,9 @@ const cusnaruto = {
 
 <div align="center">
 
-## 🎌 Anime Vibes 🎌
-
-*"Believe it! The path of a developer is never-ending, just like my favorite anime!"*
-
-### 🍥 Favorite Series 🍥
-
-`Naruto` • `One Piece` • `Attack on Titan` • `Demon Slayer` • `My Hero Academia` • `Jujutsu Kaisen`
-
-### 📺 Currently Watching 📺
-
-Always on the lookout for the next great anime adventure!
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Connect With This Shinobi 📬
+## 📬 Connect 📬
 
 [![GitHub](https://img.shields.io/badge/-@cusnaruto-000000?style=for-the-badge&logo=github&logoColor=ffae42)](https://github.com/cusnaruto)
-
-### 💬 *"The code will guide us!"* 💬
 
 </div>
 
@@ -142,7 +95,5 @@ Always on the lookout for the next great anime adventure!
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&height=120&section=footer" alt="footer"/>
-
-### ⚡ *Thanks for visiting! Feel free to star my repositories!* ⭐
 
 </div>
