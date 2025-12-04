@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&height=200&section=header&text=Cusnaruto&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Coding%20Ninja%20%7C%20Anime%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1;Anime+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cusnaruto&color=ffae42&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -144,7 +144,5 @@ Always on the lookout for the next great anime adventure!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&height=120&section=footer" alt="footer"/>
 
 ### ⚡ *Thanks for visiting! Feel free to star my repositories!* ⭐
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="footer wave"/>
 
 </div>
