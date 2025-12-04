@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🍜 Welcome! 🍜
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&section=header&text=cusnaruto&fontSize=60&fontColor=5e42ff&animation=fadeIn&fontAlignY=38" alt="header"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cusnaruto&color=ffae42&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -16,7 +14,7 @@
 
 ## ⚡ About me ⚡
 
-*"Guy who likes penguins"*
+*"guy who likes penguins"*
 
 </div>
 
@@ -34,9 +32,7 @@ const cusnaruto = {
 };
 ```
 
----
 
-<div align="center">
 
 ---
 
