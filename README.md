@@ -22,12 +22,12 @@
 ```javascript
 const cusnaruto = {
     code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["weeb stuffs", "tech", "osu"],
+    askMeAbout: ["weeb stuffs", "tech", "osu!"],
     technologies: {
-        frontEnd: ["React", "Vue", "HTML", "CSS"],
-        backEnd: ["Node", "Express", "Django"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code"]
+        frontEnd: ["React", "HTML", "CSS"],
+        backEnd: ["Node", "Express"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Git", "Docker", "Linux"]
     },
     currentFocus: "grinding"
 };
@@ -36,10 +36,6 @@ const cusnaruto = {
 
 
 ---
-
-<div align="center">
-
-## 📊 Other stuffs 📊
 
 <div align="center">
 
