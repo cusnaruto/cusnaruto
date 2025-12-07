@@ -71,9 +71,3 @@ const cusnaruto = {
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffae42&height=120&section=footer" alt="footer"/>
-
-</div>
