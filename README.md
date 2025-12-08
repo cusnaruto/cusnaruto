@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFAE42&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile!+%E2%9A%A1)](https://git.io/typing-svg)
 
-![petra-gurin-petra](https://github.com/user-attachments/assets/c0a04860-0180-4f8d-8702-1bafa6769c47)
+![peto](https://github.com/user-attachments/assets/0a72b942-a505-45f8-95bd-2b68c4b465eb)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cusnaruto&color=ffae42&style=for-the-badge&label=PROFILE+VIEWS)
 
